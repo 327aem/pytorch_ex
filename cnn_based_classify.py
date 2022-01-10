@@ -4,6 +4,8 @@
 
 #한글 폰트 오류 고치기
 
+#[test1] Loss: 1.0352 Acc: 77.7778% Time: 33.3930s
+
 import os
 import shutil
 from bing_image_downloader import downloader
