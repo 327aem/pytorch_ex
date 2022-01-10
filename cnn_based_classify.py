@@ -1,6 +1,8 @@
+#https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning
+#나동빈님 CNN 분류 연습
+#bin_downloader => https://github.com/ndb796/bing_image_downloader
 
-
-
+#한글 폰트 오류 고치기
 
 import os
 import shutil
